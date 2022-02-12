@@ -1,8 +1,8 @@
 # landingpage
-This is my first real suedo webpage that is suposed to be a landing page.
+This is my first real suedo webpage that is supposed to be a landing page.
 I'm not going to lie, this was very difficult for me to accomplish and took me a long to time to complete,
 and not only that but the code is very messy and inefficient.
-but I'll be damned if I didn't learn a hell of a lot while doing this. However my goal for this project wasn't eligant design
+That being said though, I'll be damned if I didn't learn a heck of a lot while doing this. However my goal for this project wasn't eligant design
 but to make a basic structured and somewhat responsive(i.e. the links change when hovering over and the page reacts to widening/shorting.)
 webpage. I know there is quite a bit I got wrong but each time I do a challenging project like this, I have to reflect to realize how
 much I've actually learned(which is a lot!).
